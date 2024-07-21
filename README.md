@@ -12,7 +12,13 @@ The dataset used for this project includes various products , adulterants and de
 7. health_risk
 
 # Model
-A Gradient Boosting Model was trained on the basis of the features listed above, excluding the 'health_risk' column.  
+A Gradient Boosting Model was trained on the basis of the features listed above, excluding the 'health_risk' column. 
+
+# Streamlit App
+The Streamlit app provides an interactive interface to input wine characteristics and visualize the predictions. The app includes:
+1. A form to input wine characteristics
+2. A "Predict" button to generate predictions
+3. A styled layout with a background image and custom colors
 
 # Installation
 # Prerequisites
@@ -39,7 +45,7 @@ pip install -r requirements.txt
 
 This model is pre-trained so simply run the predictor.
 
-   python app.py
+   streamlit run app.py
    
 After execution, open your web browser and go to [http://192.168.1.64:8501] to access the application.
 
