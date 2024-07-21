@@ -16,9 +16,8 @@ A Gradient Boosting Model was trained on the basis of the features listed above,
 
 # Streamlit App
 The Streamlit app provides an interactive interface to input product name, brand, category, adulterant, detection method, severity and visualize the predictions. The app includes:
-1. A form to input wine characteristics
-2. A "Predict" button to generate predictions
-3. A styled layout with a background image and custom colors
+1. A form to input product name, brand, category, adulterant, detection method, severity
+2. A "Predict" button to generate prediction
 
 # Installation
 # Prerequisites
