@@ -46,8 +46,6 @@ This model is pre-trained so simply run the predictor.
 
    streamlit run app.py
    
-After execution, open your web browser and go to [http://192.168.1.64:8501] to access the application.
-
 # If you want to train the model on your own:
 
 1. Install Jupyter Notebook: If you haven't already installed Jupyter Notebook, you can do so using pip:
