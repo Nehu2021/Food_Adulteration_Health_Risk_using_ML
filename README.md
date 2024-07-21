@@ -15,7 +15,7 @@ The dataset used for this project includes various products , adulterants and de
 A Gradient Boosting Model was trained on the basis of the features listed above, excluding the 'health_risk' column. 
 
 # Streamlit App
-The Streamlit app provides an interactive interface to input wine characteristics and visualize the predictions. The app includes:
+The Streamlit app provides an interactive interface to input product name, brand, category, adulterant, detection method, severity and visualize the predictions. The app includes:
 1. A form to input wine characteristics
 2. A "Predict" button to generate predictions
 3. A styled layout with a background image and custom colors
