@@ -1,6 +1,19 @@
 ## Food_Adulteration_Health_Risk_using_ML
 # Project Overview
 This project aims to predict the health risk due to food adulteration based on adulteration type and product using gradient boosting model. The project includes a Streamlit web application that allows users to input product name, adulteration type, chemicals and get predictions.
+# Project Details
+The dataset used for this project includes various products , adulterants and detection method also it contains information about health risk, such as:
+1. product_name
+2. brand
+3. category
+4. adulterant
+5. detection_method
+6. severity
+7. health_risk
+
+# Model
+A Gradient Boosting Model was trained on the basis of the features listed above, excluding the 'health_risk' column.  
+
 # Installation
 # Prerequisites
 Ensure you have the following installed:
