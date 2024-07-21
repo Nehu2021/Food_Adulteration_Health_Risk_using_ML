@@ -23,7 +23,7 @@ The Streamlit app provides an interactive interface to input product name, brand
 # Prerequisites
 Ensure you have the following installed:
 
-Python 3.6 or higher
+Python 3.1.2 or higher
 
 Git
 # Steps
