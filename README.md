@@ -1,1 +1,35 @@
-# Food_Adulteration_Health_Risk_using_ML
+## Food_Adulteration_Health_Risk_using_ML
+# Project Overview
+This project aims to predict the health risk due to food adulteration based on adulteration type and product using gradient boosting model. The project includes a Streamlit web application that allows users to input product name, adulteration type, chemicals and get predictions.
+Installation
+Prerequisites
+Ensure you have the following installed:
+
+Python 3.6 or higher
+Git
+Steps
+Clone the repository
+git clone https://github.com/Nehu2021/Food_Adulteration_Health_Risk_using_ML.git
+Navigate to the project directory
+Change your current working directory to the project directory.
+
+cd Food_Adulteration
+Install dependencies
+Install the required packages using pip.
+
+pip install -r requirements.txt
+Run the predictor
+This model is pre-trained so simply run the predictor.
+
+   python app.py
+After execution, open your web browser and go to [http://192.168.1.64:8501] to access the application.
+
+If you want to train the model on your own:
+Install Jupyter Notebook: If you haven't already installed Jupyter Notebook, you can do so using pip:
+
+pip install notebook
+Open the Notebook: Once Jupyter Notebook is installed, navigate to the directory where lung_cancer_analysis.ipynb is located using your command line or terminal.
+
+Start Jupyter Notebook: Run the following command to start the Jupyter Notebook server:
+
+jupyter notebook
