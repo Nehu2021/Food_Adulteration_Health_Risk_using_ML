@@ -1,0 +1,1001 @@
+,product_name,brand,category,adulterant,detection_method,severity,health_risk
+0,Butter,BrandB,Meat,Artificial sweeteners,Microbiological Analysis,Moderate,Low
+1,Chicken,BrandC,Dairy,Coloring agents,Sensory Evaluation,Severe,Medium
+2,Yogurt,BrandC,Meat,Artificial sweeteners,Sensory Evaluation,Severe,High
+3,Wine,BrandB,Beverages,Coloring agents,Spectroscopy,Minor,Medium
+4,Bread,BrandD,Dairy,Water,Chemical Analysis,Severe,Medium
+5,Wine,BrandD,Dairy,Melamine,Microbiological Analysis,Severe,Medium
+6,Beef,BrandC,Meat,Melamine,Chemical Analysis,Minor,Medium
+7,Juice,BrandD,Beverages,Melamine,Chemical Analysis,Moderate,High
+8,Chicken,BrandC,Meat,Artificial sweeteners,Microbiological Analysis,Minor,Low
+9,Milk,BrandA,Bakery,Melamine,Spectroscopy,Moderate,Medium
+10,Cheese,BrandA,Beverages,Coloring agents,Sensory Evaluation,Moderate,Low
+11,Milk,BrandA,Condiments,Melamine,Sensory Evaluation,Moderate,Low
+12,Bread,BrandC,Dairy,Chalk,Chemical Analysis,Minor,High
+13,Beef,BrandA,Meat,Chalk,Chemical Analysis,Moderate,Medium
+14,Juice,BrandA,Condiments,Melamine,Sensory Evaluation,Severe,Low
+15,Honey,BrandB,Bakery,Melamine,Spectroscopy,Minor,Medium
+16,Wine,BrandE,Beverages,Melamine,Chemical Analysis,Severe,Low
+17,Yogurt,BrandB,Bakery,Chalk,Spectroscopy,Moderate,High
+18,Honey,BrandE,Beverages,Melamine,Spectroscopy,Minor,Medium
+19,Honey,BrandC,Condiments,Coloring agents,Microbiological Analysis,Moderate,Low
+20,Wine,BrandE,Dairy,Coloring agents,Spectroscopy,Moderate,Medium
+21,Cheese,BrandA,Dairy,Melamine,Microbiological Analysis,Moderate,High
+22,Wine,BrandD,Beverages,Coloring agents,Spectroscopy,Severe,Low
+23,Milk,BrandE,Meat,Melamine,Sensory Evaluation,Minor,Medium
+24,Juice,BrandC,Dairy,Coloring agents,Chemical Analysis,Moderate,High
+25,Honey,BrandE,Meat,Chalk,Chemical Analysis,Severe,High
+26,Chicken,BrandE,Condiments,Coloring agents,Spectroscopy,Minor,Low
+27,Cheese,BrandC,Dairy,Chalk,Sensory Evaluation,Moderate,Medium
+28,Beef,BrandC,Meat,Melamine,Spectroscopy,Moderate,High
+29,Beef,BrandE,Meat,Melamine,Spectroscopy,Moderate,Medium
+30,Chicken,BrandA,Condiments,Water,Microbiological Analysis,Minor,Medium
+31,Honey,BrandB,Bakery,Melamine,Spectroscopy,Moderate,High
+32,Yogurt,BrandE,Beverages,Chalk,Microbiological Analysis,Moderate,Medium
+33,Honey,BrandD,Bakery,Water,Spectroscopy,Severe,High
+34,Juice,BrandE,Meat,Water,Spectroscopy,Moderate,Low
+35,Honey,BrandE,Beverages,Melamine,Microbiological Analysis,Severe,Medium
+36,Yogurt,BrandA,Condiments,Water,Microbiological Analysis,Moderate,High
+37,Honey,BrandA,Meat,Artificial sweeteners,Spectroscopy,Severe,Low
+38,Cheese,BrandD,Condiments,Coloring agents,Spectroscopy,Minor,High
+39,Yogurt,BrandC,Beverages,Melamine,Microbiological Analysis,Minor,Medium
+40,Juice,BrandD,Meat,Chalk,Chemical Analysis,Minor,High
+41,Milk,BrandD,Bakery,Artificial sweeteners,Microbiological Analysis,Severe,Low
+42,Bread,BrandC,Meat,Melamine,Sensory Evaluation,Minor,High
+43,Milk,BrandA,Bakery,Melamine,Spectroscopy,Severe,High
+44,Cheese,BrandC,Meat,Melamine,Chemical Analysis,Severe,Medium
+45,Beef,BrandC,Condiments,Melamine,Sensory Evaluation,Minor,Low
+46,Milk,BrandA,Bakery,Water,Sensory Evaluation,Moderate,High
+47,Milk,BrandB,Condiments,Chalk,Microbiological Analysis,Minor,Low
+48,Juice,BrandB,Bakery,Coloring agents,Chemical Analysis,Moderate,Medium
+49,Butter,BrandE,Beverages,Chalk,Chemical Analysis,Minor,Low
+50,Yogurt,BrandA,Dairy,Artificial sweeteners,Microbiological Analysis,Minor,Medium
+51,Yogurt,BrandC,Dairy,Melamine,Spectroscopy,Severe,Medium
+52,Cheese,BrandB,Bakery,Coloring agents,Spectroscopy,Moderate,High
+53,Chicken,BrandE,Condiments,Melamine,Spectroscopy,Severe,Low
+54,Yogurt,BrandA,Bakery,Coloring agents,Microbiological Analysis,Minor,Low
+55,Milk,BrandD,Condiments,Artificial sweeteners,Sensory Evaluation,Minor,Low
+56,Wine,BrandA,Bakery,Water,Sensory Evaluation,Moderate,Medium
+57,Butter,BrandA,Bakery,Melamine,Chemical Analysis,Moderate,Medium
+58,Wine,BrandA,Condiments,Chalk,Spectroscopy,Moderate,Low
+59,Bread,BrandD,Bakery,Chalk,Sensory Evaluation,Moderate,Medium
+60,Yogurt,BrandA,Condiments,Coloring agents,Sensory Evaluation,Minor,Medium
+61,Butter,BrandB,Condiments,Chalk,Microbiological Analysis,Minor,High
+62,Milk,BrandC,Condiments,Melamine,Microbiological Analysis,Minor,Medium
+63,Butter,BrandD,Meat,Water,Spectroscopy,Minor,Low
+64,Honey,BrandE,Dairy,Chalk,Microbiological Analysis,Minor,Medium
+65,Chicken,BrandD,Dairy,Artificial sweeteners,Spectroscopy,Minor,Medium
+66,Wine,BrandE,Meat,Coloring agents,Spectroscopy,Minor,Low
+67,Cheese,BrandC,Meat,Coloring agents,Sensory Evaluation,Moderate,Low
+68,Juice,BrandD,Beverages,Chalk,Chemical Analysis,Minor,Low
+69,Chicken,BrandE,Meat,Artificial sweeteners,Microbiological Analysis,Moderate,Medium
+70,Chicken,BrandB,Dairy,Coloring agents,Microbiological Analysis,Severe,Low
+71,Yogurt,BrandD,Condiments,Artificial sweeteners,Microbiological Analysis,Moderate,High
+72,Wine,BrandD,Beverages,Water,Spectroscopy,Minor,Low
+73,Juice,BrandE,Condiments,Artificial sweeteners,Sensory Evaluation,Severe,High
+74,Bread,BrandC,Condiments,Water,Sensory Evaluation,Severe,Low
+75,Honey,BrandA,Meat,Melamine,Sensory Evaluation,Minor,High
+76,Bread,BrandE,Beverages,Chalk,Spectroscopy,Severe,High
+77,Cheese,BrandC,Condiments,Water,Sensory Evaluation,Minor,Medium
+78,Cheese,BrandC,Dairy,Chalk,Sensory Evaluation,Severe,High
+79,Juice,BrandB,Condiments,Coloring agents,Microbiological Analysis,Moderate,High
+80,Bread,BrandC,Condiments,Chalk,Spectroscopy,Minor,High
+81,Yogurt,BrandE,Meat,Water,Spectroscopy,Minor,Medium
+82,Milk,BrandC,Condiments,Artificial sweeteners,Chemical Analysis,Moderate,High
+83,Chicken,BrandC,Bakery,Chalk,Sensory Evaluation,Moderate,Medium
+84,Bread,BrandD,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,Medium
+85,Chicken,BrandB,Dairy,Coloring agents,Spectroscopy,Minor,High
+86,Bread,BrandC,Dairy,Melamine,Microbiological Analysis,Minor,High
+87,Honey,BrandC,Condiments,Artificial sweeteners,Spectroscopy,Severe,Medium
+88,Cheese,BrandD,Dairy,Melamine,Sensory Evaluation,Minor,Medium
+89,Juice,BrandE,Meat,Chalk,Microbiological Analysis,Severe,High
+90,Chicken,BrandB,Bakery,Chalk,Spectroscopy,Minor,Medium
+91,Bread,BrandA,Condiments,Artificial sweeteners,Spectroscopy,Minor,Medium
+92,Yogurt,BrandC,Meat,Artificial sweeteners,Chemical Analysis,Minor,Low
+93,Juice,BrandC,Dairy,Water,Microbiological Analysis,Minor,High
+94,Butter,BrandD,Dairy,Melamine,Chemical Analysis,Severe,Medium
+95,Butter,BrandE,Meat,Coloring agents,Microbiological Analysis,Moderate,Low
+96,Wine,BrandE,Bakery,Artificial sweeteners,Chemical Analysis,Minor,High
+97,Beef,BrandB,Beverages,Chalk,Chemical Analysis,Moderate,Medium
+98,Juice,BrandD,Bakery,Artificial sweeteners,Sensory Evaluation,Minor,High
+99,Milk,BrandB,Condiments,Artificial sweeteners,Chemical Analysis,Severe,Medium
+100,Milk,BrandD,Beverages,Water,Sensory Evaluation,Severe,High
+101,Juice,BrandC,Meat,Chalk,Chemical Analysis,Severe,Medium
+102,Butter,BrandB,Dairy,Water,Spectroscopy,Moderate,High
+103,Bread,BrandA,Meat,Artificial sweeteners,Microbiological Analysis,Severe,Medium
+104,Milk,BrandA,Dairy,Water,Sensory Evaluation,Severe,Medium
+105,Milk,BrandD,Meat,Artificial sweeteners,Microbiological Analysis,Minor,Medium
+106,Wine,BrandB,Meat,Melamine,Spectroscopy,Severe,Low
+107,Cheese,BrandD,Beverages,Melamine,Microbiological Analysis,Minor,Low
+108,Wine,BrandC,Beverages,Artificial sweeteners,Spectroscopy,Minor,Medium
+109,Butter,BrandC,Bakery,Water,Microbiological Analysis,Severe,High
+110,Chicken,BrandD,Meat,Coloring agents,Sensory Evaluation,Moderate,Low
+111,Yogurt,BrandC,Bakery,Coloring agents,Chemical Analysis,Severe,Medium
+112,Beef,BrandC,Beverages,Melamine,Microbiological Analysis,Severe,High
+113,Cheese,BrandE,Condiments,Chalk,Sensory Evaluation,Moderate,High
+114,Butter,BrandC,Condiments,Water,Chemical Analysis,Severe,Low
+115,Cheese,BrandC,Dairy,Coloring agents,Microbiological Analysis,Severe,Low
+116,Wine,BrandA,Condiments,Water,Microbiological Analysis,Minor,Low
+117,Chicken,BrandB,Meat,Water,Microbiological Analysis,Minor,Medium
+118,Butter,BrandE,Meat,Melamine,Microbiological Analysis,Minor,Low
+119,Juice,BrandC,Dairy,Water,Spectroscopy,Minor,Low
+120,Chicken,BrandB,Bakery,Melamine,Chemical Analysis,Moderate,Medium
+121,Wine,BrandD,Condiments,Coloring agents,Microbiological Analysis,Severe,High
+122,Butter,BrandE,Meat,Chalk,Microbiological Analysis,Moderate,High
+123,Juice,BrandC,Bakery,Artificial sweeteners,Spectroscopy,Minor,High
+124,Wine,BrandC,Dairy,Melamine,Spectroscopy,Severe,Low
+125,Beef,BrandC,Dairy,Water,Spectroscopy,Severe,High
+126,Juice,BrandC,Bakery,Coloring agents,Microbiological Analysis,Moderate,Low
+127,Yogurt,BrandD,Condiments,Melamine,Spectroscopy,Moderate,High
+128,Juice,BrandB,Bakery,Chalk,Spectroscopy,Severe,High
+129,Bread,BrandB,Condiments,Melamine,Microbiological Analysis,Moderate,High
+130,Beef,BrandC,Bakery,Melamine,Microbiological Analysis,Severe,Low
+131,Beef,BrandD,Dairy,Coloring agents,Spectroscopy,Severe,Low
+132,Juice,BrandC,Beverages,Coloring agents,Microbiological Analysis,Moderate,Medium
+133,Bread,BrandE,Meat,Melamine,Chemical Analysis,Moderate,Low
+134,Beef,BrandD,Meat,Melamine,Spectroscopy,Severe,Medium
+135,Beef,BrandD,Condiments,Water,Spectroscopy,Minor,High
+136,Butter,BrandA,Condiments,Water,Sensory Evaluation,Minor,Medium
+137,Milk,BrandA,Beverages,Melamine,Chemical Analysis,Minor,Medium
+138,Cheese,BrandD,Bakery,Coloring agents,Sensory Evaluation,Minor,Medium
+139,Honey,BrandB,Condiments,Coloring agents,Chemical Analysis,Minor,Low
+140,Cheese,BrandE,Beverages,Chalk,Spectroscopy,Minor,High
+141,Honey,BrandA,Beverages,Melamine,Chemical Analysis,Moderate,High
+142,Butter,BrandA,Dairy,Coloring agents,Sensory Evaluation,Minor,High
+143,Chicken,BrandB,Meat,Melamine,Spectroscopy,Moderate,Low
+144,Juice,BrandB,Bakery,Coloring agents,Chemical Analysis,Moderate,Medium
+145,Bread,BrandD,Dairy,Artificial sweeteners,Spectroscopy,Severe,Low
+146,Yogurt,BrandC,Bakery,Water,Chemical Analysis,Moderate,Low
+147,Juice,BrandD,Condiments,Artificial sweeteners,Microbiological Analysis,Minor,High
+148,Chicken,BrandE,Meat,Artificial sweeteners,Sensory Evaluation,Minor,High
+149,Milk,BrandC,Condiments,Coloring agents,Chemical Analysis,Minor,Low
+150,Cheese,BrandB,Beverages,Melamine,Chemical Analysis,Moderate,Medium
+151,Honey,BrandB,Dairy,Chalk,Microbiological Analysis,Severe,High
+152,Bread,BrandD,Bakery,Chalk,Spectroscopy,Severe,High
+153,Beef,BrandD,Bakery,Water,Microbiological Analysis,Moderate,High
+154,Chicken,BrandA,Bakery,Artificial sweeteners,Spectroscopy,Moderate,High
+155,Chicken,BrandB,Dairy,Chalk,Chemical Analysis,Minor,Medium
+156,Chicken,BrandD,Bakery,Artificial sweeteners,Chemical Analysis,Moderate,Low
+157,Bread,BrandC,Beverages,Artificial sweeteners,Microbiological Analysis,Severe,Low
+158,Butter,BrandC,Meat,Chalk,Microbiological Analysis,Moderate,Low
+159,Honey,BrandD,Bakery,Melamine,Spectroscopy,Moderate,Low
+160,Milk,BrandD,Meat,Melamine,Sensory Evaluation,Moderate,High
+161,Wine,BrandD,Bakery,Coloring agents,Chemical Analysis,Severe,Low
+162,Bread,BrandE,Dairy,Melamine,Microbiological Analysis,Minor,High
+163,Honey,BrandD,Bakery,Chalk,Sensory Evaluation,Severe,Low
+164,Juice,BrandD,Meat,Coloring agents,Spectroscopy,Minor,High
+165,Juice,BrandC,Meat,Artificial sweeteners,Chemical Analysis,Moderate,Low
+166,Butter,BrandD,Beverages,Water,Spectroscopy,Severe,Medium
+167,Bread,BrandA,Beverages,Coloring agents,Spectroscopy,Moderate,Medium
+168,Wine,BrandE,Meat,Melamine,Microbiological Analysis,Minor,Medium
+169,Yogurt,BrandA,Meat,Water,Sensory Evaluation,Severe,Low
+170,Milk,BrandB,Meat,Chalk,Sensory Evaluation,Minor,Medium
+171,Beef,BrandC,Meat,Coloring agents,Chemical Analysis,Moderate,High
+172,Bread,BrandD,Bakery,Water,Spectroscopy,Severe,Low
+173,Chicken,BrandD,Bakery,Melamine,Spectroscopy,Minor,High
+174,Bread,BrandE,Bakery,Melamine,Sensory Evaluation,Severe,High
+175,Chicken,BrandA,Beverages,Coloring agents,Chemical Analysis,Severe,Low
+176,Bread,BrandA,Condiments,Chalk,Sensory Evaluation,Moderate,Low
+177,Cheese,BrandD,Dairy,Chalk,Chemical Analysis,Minor,Low
+178,Yogurt,BrandE,Dairy,Water,Sensory Evaluation,Moderate,Low
+179,Juice,BrandA,Bakery,Artificial sweeteners,Sensory Evaluation,Moderate,Low
+180,Wine,BrandB,Condiments,Artificial sweeteners,Chemical Analysis,Severe,Medium
+181,Juice,BrandE,Bakery,Water,Microbiological Analysis,Minor,Low
+182,Honey,BrandE,Beverages,Water,Microbiological Analysis,Severe,Medium
+183,Beef,BrandA,Beverages,Chalk,Spectroscopy,Moderate,Low
+184,Beef,BrandC,Meat,Chalk,Chemical Analysis,Minor,High
+185,Milk,BrandA,Dairy,Chalk,Microbiological Analysis,Minor,High
+186,Chicken,BrandB,Dairy,Chalk,Spectroscopy,Minor,Medium
+187,Cheese,BrandA,Condiments,Melamine,Chemical Analysis,Moderate,Low
+188,Butter,BrandA,Condiments,Water,Spectroscopy,Moderate,Low
+189,Juice,BrandD,Bakery,Chalk,Spectroscopy,Severe,Low
+190,Bread,BrandE,Condiments,Artificial sweeteners,Spectroscopy,Moderate,Medium
+191,Milk,BrandC,Meat,Water,Spectroscopy,Moderate,Medium
+192,Juice,BrandA,Meat,Artificial sweeteners,Microbiological Analysis,Moderate,Medium
+193,Bread,BrandC,Dairy,Water,Sensory Evaluation,Severe,Medium
+194,Juice,BrandC,Dairy,Coloring agents,Sensory Evaluation,Minor,Medium
+195,Honey,BrandE,Bakery,Chalk,Chemical Analysis,Minor,Medium
+196,Cheese,BrandC,Beverages,Coloring agents,Sensory Evaluation,Moderate,Medium
+197,Wine,BrandC,Beverages,Water,Chemical Analysis,Severe,High
+198,Juice,BrandD,Beverages,Chalk,Sensory Evaluation,Minor,High
+199,Juice,BrandB,Bakery,Artificial sweeteners,Spectroscopy,Minor,High
+200,Chicken,BrandB,Condiments,Water,Chemical Analysis,Minor,Medium
+201,Beef,BrandA,Dairy,Coloring agents,Chemical Analysis,Minor,High
+202,Juice,BrandC,Meat,Water,Chemical Analysis,Minor,Medium
+203,Chicken,BrandB,Bakery,Coloring agents,Chemical Analysis,Minor,Medium
+204,Chicken,BrandB,Beverages,Water,Microbiological Analysis,Moderate,Low
+205,Beef,BrandA,Beverages,Coloring agents,Spectroscopy,Minor,Low
+206,Butter,BrandC,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,Medium
+207,Honey,BrandA,Condiments,Chalk,Chemical Analysis,Moderate,Low
+208,Juice,BrandA,Beverages,Melamine,Chemical Analysis,Minor,High
+209,Juice,BrandC,Condiments,Artificial sweeteners,Spectroscopy,Severe,Medium
+210,Honey,BrandB,Beverages,Chalk,Sensory Evaluation,Minor,High
+211,Yogurt,BrandA,Dairy,Chalk,Sensory Evaluation,Severe,High
+212,Juice,BrandB,Condiments,Coloring agents,Chemical Analysis,Minor,High
+213,Juice,BrandC,Meat,Chalk,Chemical Analysis,Moderate,High
+214,Milk,BrandE,Bakery,Chalk,Sensory Evaluation,Moderate,High
+215,Chicken,BrandD,Dairy,Melamine,Chemical Analysis,Severe,High
+216,Yogurt,BrandA,Dairy,Chalk,Sensory Evaluation,Severe,Low
+217,Yogurt,BrandE,Dairy,Artificial sweeteners,Chemical Analysis,Severe,Medium
+218,Chicken,BrandB,Beverages,Coloring agents,Spectroscopy,Severe,High
+219,Juice,BrandD,Meat,Artificial sweeteners,Spectroscopy,Minor,Low
+220,Honey,BrandD,Dairy,Water,Chemical Analysis,Severe,Medium
+221,Chicken,BrandC,Meat,Artificial sweeteners,Chemical Analysis,Minor,Low
+222,Butter,BrandC,Dairy,Coloring agents,Microbiological Analysis,Moderate,Medium
+223,Milk,BrandD,Meat,Water,Sensory Evaluation,Minor,Low
+224,Beef,BrandC,Meat,Coloring agents,Spectroscopy,Moderate,High
+225,Milk,BrandB,Meat,Water,Sensory Evaluation,Minor,High
+226,Butter,BrandB,Bakery,Water,Spectroscopy,Moderate,Medium
+227,Bread,BrandD,Beverages,Coloring agents,Microbiological Analysis,Minor,High
+228,Beef,BrandE,Dairy,Coloring agents,Chemical Analysis,Moderate,Medium
+229,Juice,BrandA,Meat,Chalk,Microbiological Analysis,Minor,Medium
+230,Juice,BrandD,Dairy,Water,Microbiological Analysis,Moderate,High
+231,Juice,BrandB,Beverages,Coloring agents,Spectroscopy,Minor,Low
+232,Juice,BrandE,Bakery,Melamine,Chemical Analysis,Minor,Low
+233,Yogurt,BrandE,Bakery,Artificial sweeteners,Sensory Evaluation,Severe,Low
+234,Wine,BrandD,Condiments,Coloring agents,Chemical Analysis,Minor,Low
+235,Wine,BrandA,Condiments,Artificial sweeteners,Sensory Evaluation,Severe,High
+236,Cheese,BrandA,Meat,Coloring agents,Chemical Analysis,Severe,Low
+237,Cheese,BrandE,Beverages,Melamine,Microbiological Analysis,Severe,High
+238,Chicken,BrandC,Meat,Coloring agents,Spectroscopy,Minor,Medium
+239,Milk,BrandD,Condiments,Melamine,Sensory Evaluation,Moderate,Medium
+240,Butter,BrandE,Beverages,Artificial sweeteners,Microbiological Analysis,Severe,High
+241,Juice,BrandC,Beverages,Coloring agents,Microbiological Analysis,Minor,High
+242,Chicken,BrandD,Meat,Coloring agents,Microbiological Analysis,Severe,High
+243,Honey,BrandD,Beverages,Artificial sweeteners,Microbiological Analysis,Severe,Low
+244,Juice,BrandC,Bakery,Artificial sweeteners,Microbiological Analysis,Moderate,Low
+245,Cheese,BrandA,Meat,Melamine,Chemical Analysis,Minor,Low
+246,Juice,BrandB,Condiments,Coloring agents,Chemical Analysis,Moderate,Low
+247,Yogurt,BrandC,Meat,Melamine,Spectroscopy,Minor,High
+248,Cheese,BrandB,Beverages,Coloring agents,Microbiological Analysis,Minor,Low
+249,Yogurt,BrandA,Condiments,Water,Spectroscopy,Severe,High
+250,Juice,BrandE,Dairy,Coloring agents,Sensory Evaluation,Severe,Medium
+251,Cheese,BrandB,Condiments,Coloring agents,Chemical Analysis,Minor,Low
+252,Milk,BrandD,Condiments,Melamine,Chemical Analysis,Moderate,High
+253,Milk,BrandE,Meat,Chalk,Microbiological Analysis,Moderate,High
+254,Bread,BrandE,Beverages,Melamine,Spectroscopy,Moderate,Medium
+255,Honey,BrandD,Beverages,Artificial sweeteners,Chemical Analysis,Severe,High
+256,Cheese,BrandA,Meat,Coloring agents,Microbiological Analysis,Moderate,High
+257,Chicken,BrandD,Meat,Artificial sweeteners,Microbiological Analysis,Severe,High
+258,Chicken,BrandB,Beverages,Artificial sweeteners,Sensory Evaluation,Moderate,Medium
+259,Cheese,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,Medium
+260,Milk,BrandB,Beverages,Artificial sweeteners,Sensory Evaluation,Moderate,High
+261,Milk,BrandB,Bakery,Water,Microbiological Analysis,Severe,Low
+262,Bread,BrandB,Condiments,Coloring agents,Sensory Evaluation,Moderate,Low
+263,Bread,BrandB,Condiments,Coloring agents,Microbiological Analysis,Moderate,High
+264,Honey,BrandC,Beverages,Coloring agents,Sensory Evaluation,Severe,High
+265,Honey,BrandA,Meat,Melamine,Spectroscopy,Moderate,High
+266,Chicken,BrandE,Meat,Melamine,Chemical Analysis,Minor,High
+267,Honey,BrandE,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,Medium
+268,Juice,BrandC,Meat,Artificial sweeteners,Microbiological Analysis,Severe,High
+269,Bread,BrandE,Dairy,Water,Sensory Evaluation,Moderate,Low
+270,Chicken,BrandE,Meat,Chalk,Spectroscopy,Severe,Low
+271,Chicken,BrandD,Bakery,Coloring agents,Spectroscopy,Severe,Medium
+272,Wine,BrandB,Bakery,Water,Microbiological Analysis,Severe,Medium
+273,Yogurt,BrandE,Dairy,Chalk,Sensory Evaluation,Moderate,Low
+274,Juice,BrandC,Bakery,Coloring agents,Sensory Evaluation,Minor,Low
+275,Cheese,BrandD,Bakery,Melamine,Chemical Analysis,Moderate,High
+276,Honey,BrandD,Condiments,Chalk,Spectroscopy,Minor,High
+277,Honey,BrandE,Condiments,Coloring agents,Microbiological Analysis,Minor,High
+278,Chicken,BrandB,Beverages,Water,Spectroscopy,Minor,Low
+279,Butter,BrandB,Bakery,Coloring agents,Chemical Analysis,Severe,High
+280,Beef,BrandE,Dairy,Artificial sweeteners,Spectroscopy,Minor,High
+281,Cheese,BrandE,Dairy,Water,Sensory Evaluation,Severe,High
+282,Yogurt,BrandE,Bakery,Water,Microbiological Analysis,Moderate,Low
+283,Butter,BrandC,Condiments,Chalk,Chemical Analysis,Minor,Medium
+284,Cheese,BrandD,Bakery,Melamine,Chemical Analysis,Severe,Low
+285,Chicken,BrandE,Condiments,Artificial sweeteners,Microbiological Analysis,Minor,Low
+286,Milk,BrandD,Dairy,Artificial sweeteners,Spectroscopy,Severe,High
+287,Honey,BrandD,Beverages,Chalk,Microbiological Analysis,Moderate,Medium
+288,Milk,BrandC,Dairy,Water,Microbiological Analysis,Moderate,Low
+289,Bread,BrandE,Condiments,Coloring agents,Microbiological Analysis,Moderate,Medium
+290,Yogurt,BrandE,Meat,Coloring agents,Spectroscopy,Moderate,Low
+291,Beef,BrandD,Dairy,Coloring agents,Sensory Evaluation,Severe,High
+292,Honey,BrandE,Beverages,Water,Chemical Analysis,Severe,High
+293,Yogurt,BrandD,Meat,Chalk,Spectroscopy,Severe,Medium
+294,Beef,BrandC,Meat,Artificial sweeteners,Microbiological Analysis,Minor,High
+295,Cheese,BrandD,Dairy,Coloring agents,Microbiological Analysis,Moderate,Low
+296,Yogurt,BrandA,Dairy,Melamine,Spectroscopy,Minor,High
+297,Beef,BrandE,Bakery,Melamine,Chemical Analysis,Severe,High
+298,Yogurt,BrandE,Bakery,Melamine,Microbiological Analysis,Minor,Medium
+299,Chicken,BrandD,Dairy,Coloring agents,Spectroscopy,Moderate,High
+300,Milk,BrandB,Beverages,Artificial sweeteners,Sensory Evaluation,Severe,Low
+301,Honey,BrandB,Bakery,Artificial sweeteners,Microbiological Analysis,Minor,Medium
+302,Milk,BrandB,Dairy,Melamine,Spectroscopy,Severe,Medium
+303,Juice,BrandC,Beverages,Artificial sweeteners,Microbiological Analysis,Moderate,Medium
+304,Bread,BrandE,Dairy,Chalk,Chemical Analysis,Minor,Low
+305,Cheese,BrandD,Meat,Chalk,Spectroscopy,Moderate,High
+306,Chicken,BrandB,Condiments,Water,Spectroscopy,Minor,Medium
+307,Chicken,BrandA,Condiments,Chalk,Chemical Analysis,Severe,Medium
+308,Butter,BrandA,Condiments,Chalk,Sensory Evaluation,Minor,High
+309,Wine,BrandC,Meat,Coloring agents,Chemical Analysis,Moderate,Medium
+310,Milk,BrandB,Condiments,Melamine,Chemical Analysis,Severe,High
+311,Bread,BrandD,Dairy,Chalk,Sensory Evaluation,Moderate,Medium
+312,Honey,BrandA,Bakery,Chalk,Sensory Evaluation,Severe,Medium
+313,Yogurt,BrandD,Meat,Melamine,Spectroscopy,Minor,Medium
+314,Butter,BrandC,Beverages,Chalk,Chemical Analysis,Minor,Medium
+315,Beef,BrandC,Dairy,Chalk,Sensory Evaluation,Severe,High
+316,Bread,BrandA,Beverages,Artificial sweeteners,Microbiological Analysis,Severe,Medium
+317,Milk,BrandC,Bakery,Chalk,Spectroscopy,Moderate,High
+318,Honey,BrandA,Dairy,Water,Microbiological Analysis,Moderate,Low
+319,Milk,BrandA,Beverages,Chalk,Sensory Evaluation,Minor,High
+320,Juice,BrandC,Beverages,Artificial sweeteners,Spectroscopy,Minor,Low
+321,Honey,BrandD,Dairy,Water,Sensory Evaluation,Minor,Low
+322,Juice,BrandB,Meat,Melamine,Spectroscopy,Minor,High
+323,Yogurt,BrandC,Dairy,Artificial sweeteners,Sensory Evaluation,Severe,Low
+324,Milk,BrandA,Beverages,Chalk,Microbiological Analysis,Minor,Low
+325,Beef,BrandE,Bakery,Water,Spectroscopy,Moderate,Low
+326,Cheese,BrandC,Meat,Water,Microbiological Analysis,Minor,High
+327,Yogurt,BrandE,Beverages,Chalk,Spectroscopy,Moderate,Low
+328,Juice,BrandA,Beverages,Melamine,Spectroscopy,Moderate,Low
+329,Wine,BrandE,Beverages,Water,Sensory Evaluation,Severe,High
+330,Beef,BrandB,Dairy,Melamine,Chemical Analysis,Severe,Low
+331,Butter,BrandB,Dairy,Melamine,Microbiological Analysis,Severe,High
+332,Bread,BrandA,Meat,Melamine,Chemical Analysis,Severe,Low
+333,Beef,BrandD,Dairy,Coloring agents,Sensory Evaluation,Severe,Low
+334,Honey,BrandB,Meat,Chalk,Spectroscopy,Severe,High
+335,Chicken,BrandC,Condiments,Coloring agents,Sensory Evaluation,Minor,Medium
+336,Butter,BrandC,Bakery,Coloring agents,Chemical Analysis,Severe,High
+337,Honey,BrandD,Dairy,Coloring agents,Spectroscopy,Severe,High
+338,Chicken,BrandC,Meat,Chalk,Sensory Evaluation,Severe,High
+339,Milk,BrandC,Meat,Melamine,Sensory Evaluation,Minor,Medium
+340,Honey,BrandD,Bakery,Artificial sweeteners,Microbiological Analysis,Severe,Low
+341,Beef,BrandA,Condiments,Melamine,Spectroscopy,Minor,Medium
+342,Cheese,BrandC,Condiments,Water,Chemical Analysis,Minor,Medium
+343,Honey,BrandC,Meat,Coloring agents,Chemical Analysis,Severe,Medium
+344,Chicken,BrandC,Meat,Chalk,Spectroscopy,Minor,High
+345,Juice,BrandE,Meat,Artificial sweeteners,Microbiological Analysis,Minor,Medium
+346,Juice,BrandD,Condiments,Chalk,Spectroscopy,Moderate,Low
+347,Juice,BrandB,Beverages,Artificial sweeteners,Chemical Analysis,Severe,Medium
+348,Milk,BrandD,Beverages,Coloring agents,Microbiological Analysis,Moderate,Medium
+349,Beef,BrandD,Beverages,Melamine,Microbiological Analysis,Severe,Medium
+350,Bread,BrandD,Condiments,Coloring agents,Sensory Evaluation,Severe,High
+351,Bread,BrandE,Dairy,Water,Spectroscopy,Moderate,Low
+352,Butter,BrandC,Meat,Chalk,Sensory Evaluation,Moderate,Low
+353,Yogurt,BrandB,Dairy,Water,Sensory Evaluation,Moderate,High
+354,Chicken,BrandE,Dairy,Water,Sensory Evaluation,Minor,High
+355,Juice,BrandE,Dairy,Chalk,Chemical Analysis,Severe,High
+356,Milk,BrandA,Dairy,Coloring agents,Chemical Analysis,Moderate,Medium
+357,Yogurt,BrandB,Bakery,Chalk,Spectroscopy,Minor,Medium
+358,Butter,BrandD,Meat,Coloring agents,Microbiological Analysis,Minor,Low
+359,Honey,BrandE,Condiments,Chalk,Chemical Analysis,Severe,High
+360,Yogurt,BrandA,Dairy,Coloring agents,Microbiological Analysis,Severe,Low
+361,Beef,BrandA,Meat,Melamine,Microbiological Analysis,Severe,Low
+362,Milk,BrandA,Condiments,Water,Chemical Analysis,Severe,Medium
+363,Juice,BrandA,Meat,Coloring agents,Sensory Evaluation,Minor,Medium
+364,Chicken,BrandA,Bakery,Coloring agents,Microbiological Analysis,Moderate,Low
+365,Honey,BrandB,Bakery,Artificial sweeteners,Sensory Evaluation,Minor,High
+366,Bread,BrandC,Beverages,Artificial sweeteners,Sensory Evaluation,Severe,Medium
+367,Beef,BrandD,Condiments,Chalk,Spectroscopy,Minor,Low
+368,Milk,BrandC,Condiments,Melamine,Spectroscopy,Severe,High
+369,Milk,BrandE,Bakery,Coloring agents,Chemical Analysis,Moderate,High
+370,Wine,BrandD,Beverages,Water,Spectroscopy,Severe,Medium
+371,Bread,BrandC,Bakery,Melamine,Spectroscopy,Minor,Medium
+372,Chicken,BrandA,Meat,Coloring agents,Microbiological Analysis,Severe,Low
+373,Milk,BrandB,Bakery,Coloring agents,Sensory Evaluation,Severe,Low
+374,Milk,BrandD,Dairy,Water,Chemical Analysis,Severe,Low
+375,Cheese,BrandC,Beverages,Coloring agents,Sensory Evaluation,Minor,High
+376,Honey,BrandA,Beverages,Melamine,Chemical Analysis,Minor,Low
+377,Chicken,BrandA,Condiments,Chalk,Sensory Evaluation,Severe,Low
+378,Cheese,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Severe,Medium
+379,Juice,BrandE,Bakery,Coloring agents,Spectroscopy,Severe,High
+380,Yogurt,BrandC,Dairy,Water,Sensory Evaluation,Severe,Low
+381,Chicken,BrandA,Meat,Coloring agents,Chemical Analysis,Minor,Low
+382,Wine,BrandB,Meat,Water,Sensory Evaluation,Severe,Low
+383,Wine,BrandC,Condiments,Melamine,Chemical Analysis,Minor,Low
+384,Beef,BrandC,Meat,Coloring agents,Sensory Evaluation,Moderate,Low
+385,Yogurt,BrandE,Dairy,Coloring agents,Sensory Evaluation,Severe,Low
+386,Milk,BrandE,Dairy,Coloring agents,Sensory Evaluation,Minor,Medium
+387,Wine,BrandC,Beverages,Coloring agents,Spectroscopy,Minor,Low
+388,Beef,BrandE,Bakery,Chalk,Chemical Analysis,Minor,Medium
+389,Bread,BrandA,Dairy,Water,Spectroscopy,Severe,Low
+390,Honey,BrandB,Dairy,Melamine,Sensory Evaluation,Severe,Low
+391,Bread,BrandA,Condiments,Water,Chemical Analysis,Minor,Low
+392,Juice,BrandD,Dairy,Water,Chemical Analysis,Minor,Medium
+393,Juice,BrandE,Beverages,Artificial sweeteners,Spectroscopy,Moderate,Low
+394,Juice,BrandE,Condiments,Coloring agents,Spectroscopy,Minor,Medium
+395,Butter,BrandB,Dairy,Melamine,Chemical Analysis,Minor,High
+396,Bread,BrandE,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,Medium
+397,Yogurt,BrandB,Beverages,Coloring agents,Sensory Evaluation,Minor,Low
+398,Bread,BrandC,Dairy,Water,Chemical Analysis,Moderate,Medium
+399,Wine,BrandE,Dairy,Melamine,Spectroscopy,Minor,Low
+400,Chicken,BrandA,Dairy,Chalk,Chemical Analysis,Minor,Medium
+401,Honey,BrandB,Dairy,Coloring agents,Microbiological Analysis,Moderate,Medium
+402,Juice,BrandD,Bakery,Water,Sensory Evaluation,Severe,Low
+403,Honey,BrandC,Meat,Chalk,Chemical Analysis,Minor,Low
+404,Chicken,BrandB,Condiments,Artificial sweeteners,Microbiological Analysis,Minor,High
+405,Butter,BrandB,Bakery,Chalk,Microbiological Analysis,Minor,Medium
+406,Wine,BrandC,Meat,Artificial sweeteners,Sensory Evaluation,Minor,Medium
+407,Beef,BrandA,Condiments,Artificial sweeteners,Sensory Evaluation,Minor,Medium
+408,Honey,BrandD,Beverages,Chalk,Spectroscopy,Severe,Low
+409,Butter,BrandA,Beverages,Chalk,Chemical Analysis,Severe,High
+410,Yogurt,BrandA,Dairy,Chalk,Spectroscopy,Moderate,High
+411,Honey,BrandA,Beverages,Chalk,Chemical Analysis,Minor,Low
+412,Wine,BrandE,Dairy,Chalk,Microbiological Analysis,Minor,Medium
+413,Beef,BrandD,Condiments,Chalk,Spectroscopy,Minor,Low
+414,Butter,BrandB,Dairy,Chalk,Chemical Analysis,Minor,Low
+415,Milk,BrandB,Meat,Chalk,Microbiological Analysis,Minor,High
+416,Yogurt,BrandA,Beverages,Chalk,Sensory Evaluation,Moderate,Low
+417,Juice,BrandC,Beverages,Coloring agents,Spectroscopy,Minor,Low
+418,Cheese,BrandD,Condiments,Chalk,Chemical Analysis,Moderate,Low
+419,Juice,BrandA,Dairy,Melamine,Chemical Analysis,Minor,High
+420,Juice,BrandA,Dairy,Melamine,Microbiological Analysis,Minor,Low
+421,Beef,BrandB,Meat,Artificial sweeteners,Chemical Analysis,Moderate,Low
+422,Cheese,BrandB,Dairy,Water,Spectroscopy,Severe,Medium
+423,Bread,BrandC,Dairy,Water,Spectroscopy,Moderate,Low
+424,Cheese,BrandE,Bakery,Melamine,Microbiological Analysis,Severe,High
+425,Chicken,BrandE,Meat,Artificial sweeteners,Spectroscopy,Minor,Low
+426,Butter,BrandC,Dairy,Melamine,Chemical Analysis,Moderate,Low
+427,Beef,BrandA,Dairy,Artificial sweeteners,Spectroscopy,Minor,Low
+428,Chicken,BrandD,Meat,Coloring agents,Sensory Evaluation,Severe,High
+429,Juice,BrandD,Beverages,Chalk,Chemical Analysis,Severe,Low
+430,Chicken,BrandD,Dairy,Water,Spectroscopy,Severe,Medium
+431,Yogurt,BrandB,Dairy,Water,Microbiological Analysis,Severe,Low
+432,Butter,BrandD,Bakery,Chalk,Sensory Evaluation,Moderate,Low
+433,Cheese,BrandD,Beverages,Artificial sweeteners,Sensory Evaluation,Moderate,High
+434,Yogurt,BrandE,Condiments,Coloring agents,Sensory Evaluation,Moderate,High
+435,Chicken,BrandD,Condiments,Melamine,Chemical Analysis,Minor,Low
+436,Wine,BrandC,Beverages,Artificial sweeteners,Spectroscopy,Moderate,Medium
+437,Yogurt,BrandE,Meat,Coloring agents,Chemical Analysis,Minor,Low
+438,Milk,BrandB,Dairy,Chalk,Chemical Analysis,Moderate,Low
+439,Bread,BrandE,Condiments,Melamine,Spectroscopy,Minor,Medium
+440,Milk,BrandA,Meat,Water,Chemical Analysis,Moderate,Low
+441,Wine,BrandB,Meat,Coloring agents,Sensory Evaluation,Severe,Low
+442,Butter,BrandA,Condiments,Chalk,Sensory Evaluation,Severe,Low
+443,Yogurt,BrandA,Beverages,Chalk,Chemical Analysis,Severe,High
+444,Wine,BrandB,Condiments,Artificial sweeteners,Chemical Analysis,Moderate,Low
+445,Wine,BrandA,Beverages,Water,Microbiological Analysis,Minor,Medium
+446,Yogurt,BrandA,Beverages,Artificial sweeteners,Chemical Analysis,Minor,High
+447,Milk,BrandA,Condiments,Coloring agents,Chemical Analysis,Moderate,Medium
+448,Chicken,BrandD,Dairy,Melamine,Microbiological Analysis,Moderate,Low
+449,Yogurt,BrandE,Dairy,Artificial sweeteners,Microbiological Analysis,Moderate,Low
+450,Honey,BrandD,Meat,Chalk,Sensory Evaluation,Minor,Medium
+451,Beef,BrandD,Meat,Artificial sweeteners,Microbiological Analysis,Moderate,Low
+452,Wine,BrandE,Bakery,Chalk,Chemical Analysis,Minor,Low
+453,Yogurt,BrandE,Dairy,Water,Spectroscopy,Minor,Low
+454,Cheese,BrandC,Dairy,Melamine,Spectroscopy,Moderate,Low
+455,Milk,BrandE,Dairy,Coloring agents,Sensory Evaluation,Moderate,Low
+456,Milk,BrandD,Bakery,Chalk,Sensory Evaluation,Minor,Low
+457,Honey,BrandB,Beverages,Artificial sweeteners,Sensory Evaluation,Minor,Low
+458,Butter,BrandE,Beverages,Coloring agents,Sensory Evaluation,Severe,Low
+459,Cheese,BrandB,Dairy,Chalk,Microbiological Analysis,Minor,Medium
+460,Cheese,BrandE,Condiments,Coloring agents,Spectroscopy,Moderate,Medium
+461,Wine,BrandD,Bakery,Coloring agents,Chemical Analysis,Severe,High
+462,Cheese,BrandE,Meat,Water,Chemical Analysis,Minor,High
+463,Butter,BrandE,Bakery,Artificial sweeteners,Sensory Evaluation,Severe,High
+464,Juice,BrandE,Bakery,Coloring agents,Spectroscopy,Minor,High
+465,Juice,BrandA,Condiments,Artificial sweeteners,Sensory Evaluation,Moderate,Low
+466,Juice,BrandE,Meat,Chalk,Microbiological Analysis,Severe,Medium
+467,Wine,BrandE,Bakery,Melamine,Chemical Analysis,Severe,Medium
+468,Butter,BrandC,Meat,Chalk,Sensory Evaluation,Moderate,Low
+469,Juice,BrandC,Bakery,Chalk,Sensory Evaluation,Minor,High
+470,Beef,BrandA,Dairy,Chalk,Chemical Analysis,Severe,Low
+471,Yogurt,BrandC,Bakery,Coloring agents,Microbiological Analysis,Minor,High
+472,Milk,BrandE,Condiments,Melamine,Sensory Evaluation,Severe,Low
+473,Bread,BrandE,Meat,Coloring agents,Chemical Analysis,Severe,Low
+474,Bread,BrandE,Condiments,Artificial sweeteners,Chemical Analysis,Moderate,High
+475,Milk,BrandA,Bakery,Artificial sweeteners,Microbiological Analysis,Moderate,High
+476,Juice,BrandB,Meat,Melamine,Spectroscopy,Minor,Medium
+477,Yogurt,BrandB,Bakery,Chalk,Chemical Analysis,Minor,High
+478,Yogurt,BrandD,Bakery,Coloring agents,Chemical Analysis,Moderate,Medium
+479,Juice,BrandC,Bakery,Water,Sensory Evaluation,Moderate,Medium
+480,Chicken,BrandB,Condiments,Melamine,Chemical Analysis,Moderate,Low
+481,Cheese,BrandC,Beverages,Coloring agents,Chemical Analysis,Minor,Low
+482,Milk,BrandD,Bakery,Chalk,Sensory Evaluation,Minor,Medium
+483,Cheese,BrandD,Beverages,Chalk,Sensory Evaluation,Moderate,Medium
+484,Cheese,BrandD,Condiments,Water,Spectroscopy,Moderate,Low
+485,Milk,BrandB,Dairy,Artificial sweeteners,Spectroscopy,Moderate,Medium
+486,Butter,BrandE,Beverages,Melamine,Spectroscopy,Severe,High
+487,Honey,BrandE,Bakery,Artificial sweeteners,Spectroscopy,Minor,High
+488,Yogurt,BrandC,Dairy,Artificial sweeteners,Chemical Analysis,Severe,Medium
+489,Bread,BrandA,Dairy,Artificial sweeteners,Sensory Evaluation,Moderate,Low
+490,Yogurt,BrandD,Bakery,Water,Spectroscopy,Severe,High
+491,Butter,BrandD,Beverages,Water,Chemical Analysis,Severe,Medium
+492,Butter,BrandA,Dairy,Water,Microbiological Analysis,Minor,High
+493,Beef,BrandB,Condiments,Artificial sweeteners,Microbiological Analysis,Minor,Medium
+494,Juice,BrandC,Meat,Water,Microbiological Analysis,Minor,Low
+495,Milk,BrandB,Condiments,Chalk,Microbiological Analysis,Severe,Low
+496,Beef,BrandC,Bakery,Artificial sweeteners,Microbiological Analysis,Severe,High
+497,Juice,BrandB,Meat,Artificial sweeteners,Chemical Analysis,Severe,High
+498,Juice,BrandE,Beverages,Water,Spectroscopy,Severe,Low
+499,Cheese,BrandC,Beverages,Water,Sensory Evaluation,Moderate,High
+500,Yogurt,BrandC,Condiments,Coloring agents,Spectroscopy,Moderate,High
+501,Beef,BrandA,Meat,Melamine,Spectroscopy,Severe,High
+502,Juice,BrandB,Dairy,Coloring agents,Sensory Evaluation,Severe,High
+503,Chicken,BrandE,Condiments,Melamine,Chemical Analysis,Severe,Low
+504,Chicken,BrandE,Bakery,Water,Chemical Analysis,Moderate,Low
+505,Butter,BrandD,Bakery,Chalk,Spectroscopy,Moderate,Medium
+506,Bread,BrandE,Meat,Melamine,Spectroscopy,Minor,Medium
+507,Wine,BrandD,Beverages,Coloring agents,Spectroscopy,Moderate,Low
+508,Butter,BrandC,Meat,Coloring agents,Sensory Evaluation,Minor,High
+509,Beef,BrandA,Meat,Coloring agents,Spectroscopy,Minor,Low
+510,Wine,BrandD,Condiments,Artificial sweeteners,Microbiological Analysis,Moderate,High
+511,Juice,BrandD,Bakery,Melamine,Spectroscopy,Minor,High
+512,Bread,BrandE,Condiments,Melamine,Sensory Evaluation,Minor,Medium
+513,Honey,BrandA,Meat,Water,Chemical Analysis,Minor,Low
+514,Wine,BrandA,Meat,Water,Chemical Analysis,Minor,Medium
+515,Wine,BrandA,Bakery,Coloring agents,Spectroscopy,Moderate,Low
+516,Juice,BrandC,Meat,Coloring agents,Sensory Evaluation,Severe,Low
+517,Yogurt,BrandC,Beverages,Coloring agents,Spectroscopy,Moderate,High
+518,Bread,BrandE,Dairy,Melamine,Spectroscopy,Minor,High
+519,Chicken,BrandD,Dairy,Melamine,Microbiological Analysis,Moderate,High
+520,Milk,BrandC,Beverages,Coloring agents,Spectroscopy,Severe,Low
+521,Yogurt,BrandB,Meat,Chalk,Sensory Evaluation,Minor,High
+522,Bread,BrandB,Dairy,Coloring agents,Sensory Evaluation,Minor,Medium
+523,Honey,BrandC,Beverages,Melamine,Microbiological Analysis,Minor,Medium
+524,Wine,BrandD,Meat,Water,Chemical Analysis,Minor,Medium
+525,Yogurt,BrandA,Bakery,Coloring agents,Spectroscopy,Severe,High
+526,Beef,BrandE,Bakery,Chalk,Spectroscopy,Moderate,Low
+527,Wine,BrandA,Dairy,Melamine,Microbiological Analysis,Minor,Low
+528,Bread,BrandC,Condiments,Chalk,Sensory Evaluation,Moderate,Low
+529,Honey,BrandB,Beverages,Artificial sweeteners,Chemical Analysis,Minor,Medium
+530,Wine,BrandC,Dairy,Coloring agents,Spectroscopy,Moderate,High
+531,Wine,BrandD,Condiments,Artificial sweeteners,Spectroscopy,Severe,Low
+532,Chicken,BrandA,Condiments,Water,Sensory Evaluation,Severe,Medium
+533,Chicken,BrandE,Meat,Chalk,Spectroscopy,Severe,Low
+534,Chicken,BrandA,Beverages,Chalk,Spectroscopy,Moderate,Low
+535,Beef,BrandE,Dairy,Water,Spectroscopy,Moderate,High
+536,Juice,BrandA,Condiments,Water,Sensory Evaluation,Minor,Medium
+537,Chicken,BrandD,Beverages,Melamine,Microbiological Analysis,Minor,Low
+538,Juice,BrandA,Meat,Artificial sweeteners,Microbiological Analysis,Moderate,Medium
+539,Wine,BrandA,Dairy,Water,Sensory Evaluation,Minor,High
+540,Beef,BrandA,Dairy,Water,Sensory Evaluation,Minor,Low
+541,Bread,BrandB,Bakery,Artificial sweeteners,Chemical Analysis,Severe,Low
+542,Juice,BrandE,Bakery,Artificial sweeteners,Microbiological Analysis,Severe,Medium
+543,Yogurt,BrandB,Condiments,Artificial sweeteners,Microbiological Analysis,Minor,Medium
+544,Yogurt,BrandC,Meat,Artificial sweeteners,Microbiological Analysis,Moderate,Medium
+545,Milk,BrandD,Condiments,Chalk,Microbiological Analysis,Minor,Medium
+546,Butter,BrandC,Beverages,Melamine,Chemical Analysis,Moderate,Medium
+547,Chicken,BrandD,Beverages,Melamine,Sensory Evaluation,Minor,Medium
+548,Cheese,BrandA,Bakery,Chalk,Spectroscopy,Severe,Low
+549,Juice,BrandD,Meat,Melamine,Microbiological Analysis,Moderate,High
+550,Wine,BrandB,Bakery,Artificial sweeteners,Sensory Evaluation,Minor,High
+551,Juice,BrandE,Condiments,Coloring agents,Sensory Evaluation,Severe,Low
+552,Beef,BrandB,Beverages,Melamine,Microbiological Analysis,Severe,Low
+553,Chicken,BrandC,Dairy,Artificial sweeteners,Spectroscopy,Minor,High
+554,Juice,BrandE,Dairy,Melamine,Microbiological Analysis,Minor,High
+555,Cheese,BrandE,Dairy,Melamine,Chemical Analysis,Moderate,Low
+556,Milk,BrandA,Condiments,Chalk,Sensory Evaluation,Moderate,Medium
+557,Bread,BrandC,Condiments,Water,Sensory Evaluation,Minor,Medium
+558,Milk,BrandA,Beverages,Coloring agents,Microbiological Analysis,Severe,High
+559,Milk,BrandA,Dairy,Melamine,Spectroscopy,Severe,Medium
+560,Wine,BrandC,Beverages,Water,Microbiological Analysis,Moderate,Low
+561,Wine,BrandB,Dairy,Water,Microbiological Analysis,Minor,Medium
+562,Yogurt,BrandB,Bakery,Melamine,Spectroscopy,Minor,High
+563,Beef,BrandD,Condiments,Melamine,Spectroscopy,Severe,Low
+564,Bread,BrandC,Dairy,Melamine,Sensory Evaluation,Moderate,Medium
+565,Bread,BrandD,Meat,Artificial sweeteners,Chemical Analysis,Severe,Low
+566,Cheese,BrandB,Condiments,Water,Microbiological Analysis,Severe,Low
+567,Juice,BrandC,Meat,Artificial sweeteners,Spectroscopy,Severe,High
+568,Milk,BrandD,Meat,Artificial sweeteners,Sensory Evaluation,Minor,Low
+569,Beef,BrandA,Meat,Melamine,Microbiological Analysis,Severe,Medium
+570,Milk,BrandC,Dairy,Coloring agents,Microbiological Analysis,Severe,High
+571,Butter,BrandE,Meat,Melamine,Microbiological Analysis,Minor,Low
+572,Chicken,BrandD,Meat,Water,Chemical Analysis,Minor,Low
+573,Cheese,BrandC,Dairy,Artificial sweeteners,Sensory Evaluation,Moderate,Medium
+574,Beef,BrandC,Beverages,Coloring agents,Sensory Evaluation,Moderate,High
+575,Yogurt,BrandD,Dairy,Melamine,Sensory Evaluation,Severe,Medium
+576,Beef,BrandE,Bakery,Artificial sweeteners,Chemical Analysis,Moderate,Low
+577,Milk,BrandD,Beverages,Water,Sensory Evaluation,Moderate,Medium
+578,Bread,BrandB,Meat,Melamine,Sensory Evaluation,Minor,Low
+579,Bread,BrandC,Bakery,Artificial sweeteners,Microbiological Analysis,Severe,High
+580,Bread,BrandB,Meat,Water,Sensory Evaluation,Minor,Low
+581,Beef,BrandC,Meat,Coloring agents,Spectroscopy,Severe,Medium
+582,Milk,BrandD,Meat,Chalk,Spectroscopy,Moderate,Medium
+583,Honey,BrandB,Bakery,Chalk,Spectroscopy,Minor,Low
+584,Wine,BrandA,Beverages,Artificial sweeteners,Chemical Analysis,Moderate,Medium
+585,Yogurt,BrandC,Meat,Chalk,Chemical Analysis,Moderate,Medium
+586,Wine,BrandE,Dairy,Melamine,Spectroscopy,Minor,Medium
+587,Chicken,BrandB,Meat,Chalk,Spectroscopy,Severe,Low
+588,Bread,BrandC,Bakery,Melamine,Spectroscopy,Moderate,Low
+589,Butter,BrandC,Condiments,Melamine,Sensory Evaluation,Severe,Medium
+590,Wine,BrandD,Beverages,Water,Sensory Evaluation,Minor,High
+591,Juice,BrandD,Dairy,Melamine,Sensory Evaluation,Minor,Low
+592,Beef,BrandD,Condiments,Water,Spectroscopy,Moderate,High
+593,Honey,BrandD,Beverages,Coloring agents,Spectroscopy,Moderate,Low
+594,Juice,BrandC,Dairy,Water,Spectroscopy,Severe,Low
+595,Milk,BrandC,Bakery,Chalk,Sensory Evaluation,Severe,Low
+596,Wine,BrandC,Bakery,Chalk,Spectroscopy,Severe,High
+597,Milk,BrandB,Bakery,Water,Sensory Evaluation,Severe,Medium
+598,Wine,BrandA,Bakery,Melamine,Spectroscopy,Minor,High
+599,Bread,BrandA,Meat,Water,Chemical Analysis,Moderate,Medium
+600,Yogurt,BrandD,Beverages,Artificial sweeteners,Microbiological Analysis,Moderate,Medium
+601,Wine,BrandC,Dairy,Chalk,Chemical Analysis,Severe,High
+602,Beef,BrandE,Bakery,Water,Microbiological Analysis,Moderate,Medium
+603,Wine,BrandC,Condiments,Artificial sweeteners,Sensory Evaluation,Minor,High
+604,Milk,BrandD,Dairy,Chalk,Microbiological Analysis,Moderate,High
+605,Honey,BrandC,Beverages,Melamine,Sensory Evaluation,Minor,Low
+606,Wine,BrandC,Condiments,Melamine,Sensory Evaluation,Minor,High
+607,Yogurt,BrandC,Beverages,Melamine,Microbiological Analysis,Minor,Low
+608,Cheese,BrandC,Condiments,Melamine,Sensory Evaluation,Moderate,High
+609,Yogurt,BrandA,Meat,Coloring agents,Spectroscopy,Moderate,High
+610,Juice,BrandD,Condiments,Coloring agents,Sensory Evaluation,Severe,Low
+611,Bread,BrandE,Condiments,Artificial sweeteners,Microbiological Analysis,Moderate,Medium
+612,Butter,BrandD,Beverages,Melamine,Chemical Analysis,Moderate,Medium
+613,Cheese,BrandC,Beverages,Water,Microbiological Analysis,Moderate,High
+614,Chicken,BrandE,Beverages,Coloring agents,Sensory Evaluation,Severe,High
+615,Milk,BrandD,Condiments,Melamine,Chemical Analysis,Severe,Low
+616,Milk,BrandE,Condiments,Artificial sweeteners,Sensory Evaluation,Severe,Low
+617,Butter,BrandE,Meat,Coloring agents,Microbiological Analysis,Severe,High
+618,Milk,BrandA,Dairy,Water,Microbiological Analysis,Severe,Medium
+619,Wine,BrandD,Meat,Water,Spectroscopy,Minor,Low
+620,Milk,BrandA,Dairy,Melamine,Sensory Evaluation,Severe,High
+621,Beef,BrandB,Beverages,Chalk,Sensory Evaluation,Severe,Low
+622,Bread,BrandA,Beverages,Chalk,Chemical Analysis,Severe,Medium
+623,Honey,BrandE,Beverages,Artificial sweeteners,Spectroscopy,Moderate,Medium
+624,Cheese,BrandD,Meat,Melamine,Microbiological Analysis,Moderate,High
+625,Chicken,BrandE,Condiments,Melamine,Sensory Evaluation,Severe,High
+626,Beef,BrandE,Dairy,Melamine,Spectroscopy,Moderate,Medium
+627,Milk,BrandC,Dairy,Water,Spectroscopy,Moderate,Low
+628,Bread,BrandC,Dairy,Coloring agents,Spectroscopy,Minor,High
+629,Honey,BrandC,Bakery,Water,Spectroscopy,Minor,Medium
+630,Bread,BrandD,Bakery,Chalk,Sensory Evaluation,Severe,Medium
+631,Beef,BrandE,Dairy,Melamine,Sensory Evaluation,Minor,High
+632,Yogurt,BrandB,Condiments,Chalk,Spectroscopy,Severe,High
+633,Yogurt,BrandD,Beverages,Water,Chemical Analysis,Minor,Low
+634,Bread,BrandE,Beverages,Chalk,Chemical Analysis,Severe,Low
+635,Chicken,BrandE,Dairy,Coloring agents,Sensory Evaluation,Moderate,High
+636,Yogurt,BrandB,Beverages,Melamine,Microbiological Analysis,Minor,Low
+637,Yogurt,BrandE,Beverages,Coloring agents,Spectroscopy,Minor,High
+638,Beef,BrandE,Condiments,Artificial sweeteners,Sensory Evaluation,Moderate,Low
+639,Honey,BrandB,Condiments,Artificial sweeteners,Chemical Analysis,Severe,High
+640,Chicken,BrandC,Meat,Artificial sweeteners,Chemical Analysis,Severe,Low
+641,Wine,BrandB,Beverages,Water,Spectroscopy,Moderate,Medium
+642,Juice,BrandC,Bakery,Chalk,Chemical Analysis,Moderate,Medium
+643,Milk,BrandE,Meat,Artificial sweeteners,Spectroscopy,Moderate,Low
+644,Honey,BrandA,Meat,Melamine,Chemical Analysis,Moderate,High
+645,Butter,BrandC,Bakery,Artificial sweeteners,Chemical Analysis,Severe,Low
+646,Cheese,BrandC,Condiments,Water,Microbiological Analysis,Minor,Low
+647,Cheese,BrandC,Beverages,Melamine,Microbiological Analysis,Minor,Low
+648,Beef,BrandB,Bakery,Chalk,Sensory Evaluation,Severe,Medium
+649,Honey,BrandD,Meat,Coloring agents,Chemical Analysis,Moderate,High
+650,Cheese,BrandD,Meat,Coloring agents,Spectroscopy,Severe,Medium
+651,Chicken,BrandB,Meat,Chalk,Spectroscopy,Minor,High
+652,Bread,BrandE,Dairy,Artificial sweeteners,Sensory Evaluation,Moderate,Low
+653,Beef,BrandD,Dairy,Coloring agents,Microbiological Analysis,Moderate,High
+654,Cheese,BrandB,Dairy,Melamine,Microbiological Analysis,Severe,Medium
+655,Bread,BrandC,Beverages,Artificial sweeteners,Spectroscopy,Severe,Medium
+656,Honey,BrandE,Meat,Chalk,Spectroscopy,Moderate,Low
+657,Cheese,BrandE,Bakery,Coloring agents,Microbiological Analysis,Moderate,Low
+658,Bread,BrandE,Meat,Coloring agents,Spectroscopy,Minor,High
+659,Honey,BrandD,Condiments,Melamine,Chemical Analysis,Moderate,High
+660,Wine,BrandA,Dairy,Coloring agents,Microbiological Analysis,Severe,Low
+661,Butter,BrandC,Beverages,Chalk,Microbiological Analysis,Severe,Medium
+662,Butter,BrandB,Condiments,Artificial sweeteners,Microbiological Analysis,Moderate,Medium
+663,Honey,BrandA,Bakery,Water,Microbiological Analysis,Moderate,Medium
+664,Juice,BrandE,Dairy,Melamine,Chemical Analysis,Moderate,Low
+665,Juice,BrandA,Beverages,Artificial sweeteners,Spectroscopy,Severe,High
+666,Wine,BrandE,Meat,Water,Microbiological Analysis,Minor,Low
+667,Wine,BrandE,Bakery,Artificial sweeteners,Microbiological Analysis,Severe,Low
+668,Cheese,BrandC,Bakery,Coloring agents,Microbiological Analysis,Minor,Low
+669,Beef,BrandA,Meat,Melamine,Spectroscopy,Moderate,Medium
+670,Bread,BrandC,Condiments,Water,Chemical Analysis,Minor,High
+671,Butter,BrandC,Condiments,Water,Spectroscopy,Moderate,Low
+672,Cheese,BrandD,Meat,Coloring agents,Spectroscopy,Minor,Low
+673,Honey,BrandE,Bakery,Artificial sweeteners,Sensory Evaluation,Minor,Low
+674,Cheese,BrandA,Condiments,Coloring agents,Chemical Analysis,Minor,High
+675,Yogurt,BrandC,Beverages,Chalk,Chemical Analysis,Severe,Low
+676,Yogurt,BrandD,Bakery,Artificial sweeteners,Microbiological Analysis,Severe,Low
+677,Bread,BrandA,Condiments,Water,Sensory Evaluation,Moderate,Medium
+678,Butter,BrandC,Condiments,Melamine,Spectroscopy,Severe,High
+679,Bread,BrandD,Meat,Water,Chemical Analysis,Severe,Low
+680,Bread,BrandC,Condiments,Coloring agents,Microbiological Analysis,Severe,Medium
+681,Milk,BrandC,Dairy,Coloring agents,Chemical Analysis,Moderate,High
+682,Juice,BrandD,Bakery,Artificial sweeteners,Microbiological Analysis,Severe,Low
+683,Wine,BrandC,Bakery,Water,Sensory Evaluation,Minor,Medium
+684,Juice,BrandB,Bakery,Chalk,Sensory Evaluation,Severe,Medium
+685,Chicken,BrandB,Dairy,Water,Chemical Analysis,Severe,Low
+686,Beef,BrandC,Bakery,Chalk,Sensory Evaluation,Minor,Low
+687,Juice,BrandC,Meat,Melamine,Spectroscopy,Severe,High
+688,Beef,BrandE,Dairy,Melamine,Chemical Analysis,Severe,Medium
+689,Cheese,BrandB,Bakery,Coloring agents,Chemical Analysis,Severe,Low
+690,Honey,BrandC,Bakery,Melamine,Microbiological Analysis,Moderate,Medium
+691,Wine,BrandD,Beverages,Artificial sweeteners,Microbiological Analysis,Moderate,Medium
+692,Wine,BrandA,Dairy,Chalk,Microbiological Analysis,Severe,Medium
+693,Bread,BrandB,Dairy,Coloring agents,Sensory Evaluation,Moderate,Low
+694,Wine,BrandD,Beverages,Melamine,Sensory Evaluation,Moderate,High
+695,Yogurt,BrandD,Dairy,Water,Microbiological Analysis,Severe,Medium
+696,Juice,BrandD,Bakery,Artificial sweeteners,Spectroscopy,Severe,High
+697,Yogurt,BrandD,Bakery,Chalk,Spectroscopy,Moderate,Low
+698,Beef,BrandC,Bakery,Water,Sensory Evaluation,Severe,Medium
+699,Chicken,BrandA,Meat,Coloring agents,Microbiological Analysis,Minor,Low
+700,Yogurt,BrandB,Bakery,Chalk,Sensory Evaluation,Moderate,Medium
+701,Chicken,BrandC,Condiments,Chalk,Microbiological Analysis,Minor,High
+702,Honey,BrandA,Condiments,Artificial sweeteners,Sensory Evaluation,Moderate,Low
+703,Beef,BrandB,Beverages,Water,Sensory Evaluation,Minor,Low
+704,Butter,BrandA,Condiments,Water,Chemical Analysis,Minor,High
+705,Chicken,BrandE,Bakery,Artificial sweeteners,Chemical Analysis,Minor,High
+706,Cheese,BrandD,Dairy,Artificial sweeteners,Microbiological Analysis,Minor,High
+707,Honey,BrandD,Bakery,Chalk,Microbiological Analysis,Minor,Low
+708,Juice,BrandC,Condiments,Chalk,Spectroscopy,Minor,Medium
+709,Yogurt,BrandE,Bakery,Coloring agents,Microbiological Analysis,Moderate,Medium
+710,Cheese,BrandE,Meat,Water,Chemical Analysis,Severe,High
+711,Yogurt,BrandB,Bakery,Chalk,Spectroscopy,Severe,Low
+712,Milk,BrandC,Bakery,Chalk,Spectroscopy,Minor,Low
+713,Milk,BrandE,Bakery,Water,Sensory Evaluation,Minor,Low
+714,Beef,BrandC,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,Medium
+715,Cheese,BrandB,Condiments,Coloring agents,Microbiological Analysis,Severe,Medium
+716,Bread,BrandB,Condiments,Coloring agents,Chemical Analysis,Severe,Low
+717,Juice,BrandE,Beverages,Artificial sweeteners,Chemical Analysis,Moderate,High
+718,Bread,BrandA,Beverages,Melamine,Sensory Evaluation,Minor,Low
+719,Chicken,BrandB,Dairy,Coloring agents,Microbiological Analysis,Moderate,Low
+720,Juice,BrandB,Condiments,Melamine,Spectroscopy,Moderate,Low
+721,Milk,BrandE,Dairy,Water,Chemical Analysis,Severe,High
+722,Butter,BrandC,Meat,Water,Spectroscopy,Moderate,High
+723,Bread,BrandA,Beverages,Chalk,Sensory Evaluation,Severe,High
+724,Beef,BrandB,Dairy,Water,Sensory Evaluation,Moderate,Medium
+725,Chicken,BrandC,Condiments,Coloring agents,Spectroscopy,Moderate,Low
+726,Yogurt,BrandE,Dairy,Coloring agents,Sensory Evaluation,Moderate,High
+727,Bread,BrandE,Beverages,Artificial sweeteners,Sensory Evaluation,Minor,Medium
+728,Milk,BrandB,Dairy,Water,Spectroscopy,Severe,Low
+729,Chicken,BrandC,Beverages,Coloring agents,Sensory Evaluation,Minor,Medium
+730,Beef,BrandC,Bakery,Water,Sensory Evaluation,Severe,Medium
+731,Juice,BrandA,Condiments,Chalk,Microbiological Analysis,Moderate,Medium
+732,Honey,BrandE,Meat,Chalk,Chemical Analysis,Severe,High
+733,Chicken,BrandA,Bakery,Artificial sweeteners,Microbiological Analysis,Minor,Medium
+734,Yogurt,BrandC,Dairy,Chalk,Microbiological Analysis,Severe,Low
+735,Chicken,BrandA,Bakery,Artificial sweeteners,Sensory Evaluation,Moderate,High
+736,Cheese,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,High
+737,Yogurt,BrandE,Meat,Coloring agents,Chemical Analysis,Severe,Low
+738,Juice,BrandC,Meat,Coloring agents,Chemical Analysis,Severe,High
+739,Wine,BrandE,Beverages,Water,Microbiological Analysis,Moderate,High
+740,Butter,BrandD,Dairy,Melamine,Chemical Analysis,Minor,Low
+741,Milk,BrandA,Meat,Artificial sweeteners,Microbiological Analysis,Severe,Low
+742,Juice,BrandA,Meat,Water,Chemical Analysis,Minor,Medium
+743,Butter,BrandA,Beverages,Artificial sweeteners,Spectroscopy,Minor,Low
+744,Juice,BrandD,Meat,Artificial sweeteners,Microbiological Analysis,Minor,Low
+745,Butter,BrandC,Meat,Chalk,Sensory Evaluation,Moderate,Low
+746,Cheese,BrandE,Meat,Artificial sweeteners,Sensory Evaluation,Moderate,Low
+747,Chicken,BrandB,Condiments,Coloring agents,Sensory Evaluation,Minor,Medium
+748,Bread,BrandB,Beverages,Melamine,Sensory Evaluation,Minor,Low
+749,Juice,BrandC,Meat,Chalk,Microbiological Analysis,Moderate,High
+750,Cheese,BrandA,Meat,Coloring agents,Chemical Analysis,Moderate,Medium
+751,Wine,BrandD,Meat,Artificial sweeteners,Sensory Evaluation,Minor,Low
+752,Honey,BrandB,Bakery,Melamine,Chemical Analysis,Moderate,Low
+753,Beef,BrandD,Bakery,Coloring agents,Spectroscopy,Minor,Medium
+754,Chicken,BrandE,Dairy,Water,Spectroscopy,Severe,High
+755,Wine,BrandB,Dairy,Coloring agents,Spectroscopy,Moderate,High
+756,Honey,BrandA,Meat,Artificial sweeteners,Microbiological Analysis,Moderate,Medium
+757,Cheese,BrandA,Beverages,Water,Chemical Analysis,Severe,Medium
+758,Bread,BrandE,Dairy,Artificial sweeteners,Spectroscopy,Severe,High
+759,Butter,BrandC,Meat,Water,Sensory Evaluation,Severe,Medium
+760,Butter,BrandC,Condiments,Water,Spectroscopy,Severe,Medium
+761,Beef,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,Low
+762,Chicken,BrandA,Condiments,Melamine,Sensory Evaluation,Minor,Low
+763,Bread,BrandC,Condiments,Coloring agents,Sensory Evaluation,Moderate,Low
+764,Honey,BrandC,Bakery,Coloring agents,Sensory Evaluation,Minor,Medium
+765,Juice,BrandC,Bakery,Artificial sweeteners,Spectroscopy,Minor,Medium
+766,Beef,BrandD,Beverages,Coloring agents,Microbiological Analysis,Moderate,Low
+767,Juice,BrandE,Beverages,Chalk,Spectroscopy,Severe,High
+768,Milk,BrandC,Bakery,Water,Microbiological Analysis,Minor,Medium
+769,Yogurt,BrandE,Condiments,Coloring agents,Microbiological Analysis,Minor,Low
+770,Honey,BrandA,Bakery,Artificial sweeteners,Sensory Evaluation,Minor,Low
+771,Chicken,BrandE,Dairy,Water,Chemical Analysis,Moderate,High
+772,Wine,BrandD,Bakery,Melamine,Chemical Analysis,Moderate,High
+773,Bread,BrandD,Meat,Melamine,Sensory Evaluation,Minor,Medium
+774,Milk,BrandB,Meat,Melamine,Spectroscopy,Severe,High
+775,Wine,BrandB,Beverages,Coloring agents,Sensory Evaluation,Minor,Medium
+776,Cheese,BrandD,Bakery,Melamine,Spectroscopy,Severe,High
+777,Butter,BrandB,Bakery,Artificial sweeteners,Chemical Analysis,Minor,Low
+778,Butter,BrandA,Beverages,Coloring agents,Chemical Analysis,Minor,Low
+779,Juice,BrandC,Meat,Melamine,Spectroscopy,Minor,High
+780,Cheese,BrandD,Beverages,Coloring agents,Microbiological Analysis,Minor,High
+781,Honey,BrandE,Meat,Water,Sensory Evaluation,Severe,High
+782,Yogurt,BrandA,Beverages,Chalk,Chemical Analysis,Moderate,High
+783,Yogurt,BrandC,Dairy,Chalk,Spectroscopy,Severe,Low
+784,Chicken,BrandB,Dairy,Coloring agents,Chemical Analysis,Minor,Low
+785,Juice,BrandD,Dairy,Chalk,Sensory Evaluation,Minor,High
+786,Cheese,BrandD,Condiments,Water,Sensory Evaluation,Severe,Medium
+787,Butter,BrandE,Beverages,Artificial sweeteners,Sensory Evaluation,Severe,Low
+788,Chicken,BrandE,Dairy,Melamine,Microbiological Analysis,Severe,Medium
+789,Butter,BrandA,Beverages,Coloring agents,Sensory Evaluation,Minor,Medium
+790,Yogurt,BrandA,Condiments,Artificial sweeteners,Spectroscopy,Moderate,Medium
+791,Juice,BrandA,Condiments,Coloring agents,Chemical Analysis,Minor,High
+792,Cheese,BrandA,Dairy,Water,Sensory Evaluation,Minor,High
+793,Bread,BrandA,Dairy,Melamine,Chemical Analysis,Minor,High
+794,Milk,BrandE,Meat,Chalk,Chemical Analysis,Minor,High
+795,Milk,BrandC,Meat,Melamine,Chemical Analysis,Moderate,Medium
+796,Bread,BrandB,Dairy,Artificial sweeteners,Chemical Analysis,Severe,High
+797,Yogurt,BrandD,Meat,Melamine,Chemical Analysis,Severe,Medium
+798,Chicken,BrandC,Dairy,Artificial sweeteners,Sensory Evaluation,Moderate,Low
+799,Wine,BrandD,Beverages,Melamine,Spectroscopy,Severe,Medium
+800,Honey,BrandA,Beverages,Water,Chemical Analysis,Moderate,Medium
+801,Cheese,BrandA,Beverages,Chalk,Spectroscopy,Moderate,Medium
+802,Butter,BrandA,Meat,Chalk,Microbiological Analysis,Moderate,High
+803,Wine,BrandA,Condiments,Water,Microbiological Analysis,Minor,Medium
+804,Honey,BrandA,Dairy,Water,Sensory Evaluation,Moderate,Low
+805,Milk,BrandD,Meat,Water,Chemical Analysis,Moderate,Medium
+806,Chicken,BrandB,Meat,Coloring agents,Sensory Evaluation,Severe,Medium
+807,Chicken,BrandA,Beverages,Melamine,Sensory Evaluation,Minor,Medium
+808,Yogurt,BrandB,Dairy,Chalk,Spectroscopy,Severe,High
+809,Chicken,BrandB,Beverages,Chalk,Microbiological Analysis,Severe,Low
+810,Honey,BrandE,Bakery,Melamine,Spectroscopy,Severe,High
+811,Juice,BrandD,Meat,Coloring agents,Sensory Evaluation,Moderate,Low
+812,Juice,BrandE,Dairy,Artificial sweeteners,Sensory Evaluation,Minor,Low
+813,Milk,BrandC,Meat,Coloring agents,Chemical Analysis,Severe,Low
+814,Wine,BrandA,Bakery,Artificial sweeteners,Microbiological Analysis,Moderate,Medium
+815,Chicken,BrandA,Condiments,Chalk,Chemical Analysis,Minor,High
+816,Bread,BrandB,Dairy,Melamine,Microbiological Analysis,Minor,Low
+817,Chicken,BrandE,Meat,Coloring agents,Chemical Analysis,Severe,High
+818,Chicken,BrandD,Beverages,Water,Microbiological Analysis,Moderate,Medium
+819,Beef,BrandA,Dairy,Artificial sweeteners,Chemical Analysis,Severe,Medium
+820,Wine,BrandD,Beverages,Coloring agents,Microbiological Analysis,Severe,Low
+821,Yogurt,BrandC,Meat,Coloring agents,Microbiological Analysis,Minor,Medium
+822,Bread,BrandB,Condiments,Coloring agents,Sensory Evaluation,Moderate,Medium
+823,Wine,BrandC,Bakery,Coloring agents,Sensory Evaluation,Minor,High
+824,Honey,BrandD,Condiments,Melamine,Microbiological Analysis,Minor,Medium
+825,Wine,BrandE,Beverages,Coloring agents,Sensory Evaluation,Minor,Medium
+826,Juice,BrandA,Beverages,Chalk,Chemical Analysis,Minor,High
+827,Beef,BrandC,Condiments,Artificial sweeteners,Microbiological Analysis,Severe,High
+828,Butter,BrandA,Bakery,Coloring agents,Sensory Evaluation,Severe,High
+829,Juice,BrandA,Meat,Melamine,Microbiological Analysis,Minor,Medium
+830,Yogurt,BrandD,Meat,Coloring agents,Spectroscopy,Severe,Medium
+831,Chicken,BrandD,Condiments,Chalk,Sensory Evaluation,Minor,High
+832,Cheese,BrandD,Meat,Chalk,Microbiological Analysis,Moderate,Medium
+833,Juice,BrandC,Meat,Melamine,Spectroscopy,Moderate,High
+834,Chicken,BrandB,Condiments,Water,Sensory Evaluation,Severe,Low
+835,Bread,BrandC,Meat,Chalk,Sensory Evaluation,Severe,High
+836,Beef,BrandE,Meat,Artificial sweeteners,Spectroscopy,Severe,High
+837,Yogurt,BrandC,Meat,Artificial sweeteners,Spectroscopy,Severe,Medium
+838,Bread,BrandA,Beverages,Artificial sweeteners,Sensory Evaluation,Severe,High
+839,Chicken,BrandE,Bakery,Melamine,Chemical Analysis,Minor,High
+840,Yogurt,BrandA,Beverages,Coloring agents,Chemical Analysis,Severe,High
+841,Bread,BrandA,Condiments,Coloring agents,Microbiological Analysis,Minor,Low
+842,Chicken,BrandA,Meat,Chalk,Spectroscopy,Severe,Medium
+843,Wine,BrandE,Meat,Water,Spectroscopy,Minor,Low
+844,Milk,BrandD,Meat,Chalk,Microbiological Analysis,Severe,High
+845,Yogurt,BrandD,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,High
+846,Beef,BrandA,Condiments,Coloring agents,Spectroscopy,Severe,High
+847,Bread,BrandA,Dairy,Water,Chemical Analysis,Minor,Medium
+848,Beef,BrandC,Bakery,Artificial sweeteners,Sensory Evaluation,Severe,High
+849,Cheese,BrandB,Bakery,Coloring agents,Spectroscopy,Moderate,Medium
+850,Butter,BrandB,Beverages,Artificial sweeteners,Chemical Analysis,Severe,Medium
+851,Bread,BrandA,Bakery,Artificial sweeteners,Chemical Analysis,Minor,Low
+852,Wine,BrandB,Dairy,Chalk,Sensory Evaluation,Severe,Low
+853,Butter,BrandD,Bakery,Chalk,Chemical Analysis,Minor,Low
+854,Juice,BrandD,Beverages,Artificial sweeteners,Spectroscopy,Moderate,High
+855,Beef,BrandE,Condiments,Artificial sweeteners,Spectroscopy,Moderate,Low
+856,Wine,BrandE,Beverages,Melamine,Spectroscopy,Severe,Medium
+857,Beef,BrandD,Meat,Melamine,Microbiological Analysis,Minor,Low
+858,Bread,BrandC,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,High
+859,Beef,BrandD,Bakery,Coloring agents,Spectroscopy,Minor,Low
+860,Honey,BrandA,Bakery,Chalk,Microbiological Analysis,Moderate,High
+861,Bread,BrandA,Condiments,Chalk,Microbiological Analysis,Severe,Medium
+862,Butter,BrandD,Dairy,Water,Sensory Evaluation,Minor,Low
+863,Wine,BrandB,Meat,Artificial sweeteners,Spectroscopy,Minor,High
+864,Honey,BrandD,Condiments,Water,Chemical Analysis,Minor,Low
+865,Butter,BrandD,Bakery,Water,Microbiological Analysis,Moderate,Low
+866,Milk,BrandE,Condiments,Chalk,Chemical Analysis,Severe,Low
+867,Chicken,BrandE,Bakery,Chalk,Chemical Analysis,Severe,Low
+868,Milk,BrandE,Dairy,Chalk,Spectroscopy,Moderate,Low
+869,Wine,BrandB,Condiments,Artificial sweeteners,Microbiological Analysis,Minor,High
+870,Beef,BrandE,Bakery,Water,Sensory Evaluation,Moderate,Low
+871,Chicken,BrandC,Meat,Chalk,Spectroscopy,Severe,Medium
+872,Milk,BrandC,Condiments,Water,Sensory Evaluation,Minor,High
+873,Chicken,BrandA,Beverages,Coloring agents,Chemical Analysis,Severe,High
+874,Butter,BrandD,Dairy,Water,Sensory Evaluation,Severe,High
+875,Yogurt,BrandC,Dairy,Coloring agents,Spectroscopy,Severe,Medium
+876,Wine,BrandC,Meat,Chalk,Microbiological Analysis,Minor,Medium
+877,Juice,BrandC,Condiments,Chalk,Sensory Evaluation,Minor,Low
+878,Yogurt,BrandB,Bakery,Coloring agents,Spectroscopy,Severe,Medium
+879,Milk,BrandA,Bakery,Water,Chemical Analysis,Moderate,Low
+880,Butter,BrandA,Beverages,Water,Microbiological Analysis,Minor,High
+881,Wine,BrandC,Bakery,Melamine,Microbiological Analysis,Minor,High
+882,Butter,BrandA,Bakery,Chalk,Spectroscopy,Minor,Medium
+883,Milk,BrandD,Dairy,Water,Spectroscopy,Moderate,Medium
+884,Juice,BrandA,Meat,Water,Sensory Evaluation,Minor,High
+885,Milk,BrandB,Meat,Water,Chemical Analysis,Moderate,Low
+886,Wine,BrandD,Dairy,Coloring agents,Microbiological Analysis,Moderate,Medium
+887,Honey,BrandC,Condiments,Water,Sensory Evaluation,Moderate,High
+888,Chicken,BrandB,Condiments,Artificial sweeteners,Microbiological Analysis,Moderate,Medium
+889,Chicken,BrandC,Dairy,Coloring agents,Spectroscopy,Moderate,High
+890,Butter,BrandB,Condiments,Coloring agents,Microbiological Analysis,Moderate,Low
+891,Wine,BrandB,Condiments,Water,Sensory Evaluation,Moderate,Low
+892,Wine,BrandA,Dairy,Coloring agents,Chemical Analysis,Minor,Low
+893,Milk,BrandE,Meat,Coloring agents,Spectroscopy,Minor,Low
+894,Chicken,BrandD,Dairy,Artificial sweeteners,Sensory Evaluation,Minor,Medium
+895,Bread,BrandA,Meat,Water,Microbiological Analysis,Moderate,Low
+896,Juice,BrandE,Condiments,Melamine,Microbiological Analysis,Moderate,Low
+897,Wine,BrandC,Beverages,Coloring agents,Microbiological Analysis,Severe,High
+898,Chicken,BrandB,Beverages,Chalk,Sensory Evaluation,Minor,Medium
+899,Wine,BrandC,Meat,Melamine,Spectroscopy,Moderate,High
+900,Bread,BrandA,Meat,Water,Chemical Analysis,Minor,High
+901,Wine,BrandD,Bakery,Chalk,Microbiological Analysis,Moderate,Medium
+902,Juice,BrandD,Condiments,Water,Microbiological Analysis,Severe,Medium
+903,Juice,BrandD,Beverages,Coloring agents,Spectroscopy,Moderate,Medium
+904,Chicken,BrandA,Bakery,Melamine,Sensory Evaluation,Minor,High
+905,Milk,BrandA,Meat,Chalk,Microbiological Analysis,Moderate,Low
+906,Milk,BrandA,Dairy,Melamine,Microbiological Analysis,Severe,Medium
+907,Wine,BrandE,Condiments,Artificial sweeteners,Chemical Analysis,Severe,Low
+908,Milk,BrandA,Meat,Water,Sensory Evaluation,Moderate,Low
+909,Beef,BrandD,Meat,Water,Microbiological Analysis,Severe,High
+910,Bread,BrandE,Condiments,Coloring agents,Spectroscopy,Moderate,Low
+911,Cheese,BrandC,Bakery,Melamine,Sensory Evaluation,Moderate,High
+912,Milk,BrandE,Beverages,Artificial sweeteners,Sensory Evaluation,Minor,Low
+913,Cheese,BrandD,Bakery,Melamine,Microbiological Analysis,Minor,Medium
+914,Honey,BrandD,Meat,Artificial sweeteners,Chemical Analysis,Severe,Low
+915,Beef,BrandB,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,Medium
+916,Honey,BrandA,Beverages,Artificial sweeteners,Spectroscopy,Severe,High
+917,Chicken,BrandE,Beverages,Melamine,Spectroscopy,Minor,Medium
+918,Yogurt,BrandB,Beverages,Water,Chemical Analysis,Minor,High
+919,Honey,BrandA,Bakery,Melamine,Spectroscopy,Moderate,Medium
+920,Beef,BrandB,Meat,Chalk,Chemical Analysis,Moderate,Medium
+921,Chicken,BrandB,Bakery,Chalk,Chemical Analysis,Moderate,High
+922,Beef,BrandE,Dairy,Chalk,Spectroscopy,Moderate,High
+923,Honey,BrandC,Condiments,Artificial sweeteners,Sensory Evaluation,Severe,Medium
+924,Chicken,BrandD,Meat,Water,Chemical Analysis,Minor,Low
+925,Cheese,BrandC,Beverages,Chalk,Sensory Evaluation,Minor,High
+926,Honey,BrandE,Beverages,Chalk,Chemical Analysis,Severe,Medium
+927,Beef,BrandC,Bakery,Water,Sensory Evaluation,Moderate,Low
+928,Yogurt,BrandE,Condiments,Water,Microbiological Analysis,Minor,High
+929,Yogurt,BrandC,Dairy,Water,Microbiological Analysis,Moderate,Low
+930,Milk,BrandE,Meat,Coloring agents,Spectroscopy,Moderate,Medium
+931,Chicken,BrandD,Dairy,Water,Sensory Evaluation,Moderate,High
+932,Yogurt,BrandD,Condiments,Water,Chemical Analysis,Moderate,Low
+933,Chicken,BrandA,Bakery,Coloring agents,Chemical Analysis,Moderate,Low
+934,Yogurt,BrandA,Bakery,Chalk,Chemical Analysis,Moderate,Medium
+935,Yogurt,BrandD,Bakery,Artificial sweeteners,Chemical Analysis,Minor,Medium
+936,Juice,BrandA,Condiments,Chalk,Sensory Evaluation,Minor,Low
+937,Wine,BrandC,Beverages,Coloring agents,Sensory Evaluation,Severe,Low
+938,Juice,BrandC,Beverages,Water,Microbiological Analysis,Severe,High
+939,Chicken,BrandC,Bakery,Water,Microbiological Analysis,Minor,Medium
+940,Milk,BrandD,Bakery,Coloring agents,Microbiological Analysis,Moderate,High
+941,Cheese,BrandB,Meat,Melamine,Chemical Analysis,Moderate,Low
+942,Chicken,BrandD,Dairy,Coloring agents,Chemical Analysis,Moderate,Low
+943,Honey,BrandE,Meat,Water,Microbiological Analysis,Minor,High
+944,Beef,BrandA,Meat,Melamine,Microbiological Analysis,Minor,Medium
+945,Bread,BrandD,Dairy,Water,Chemical Analysis,Minor,Low
+946,Milk,BrandB,Bakery,Chalk,Chemical Analysis,Moderate,High
+947,Cheese,BrandE,Beverages,Artificial sweeteners,Microbiological Analysis,Severe,High
+948,Cheese,BrandE,Bakery,Coloring agents,Spectroscopy,Minor,High
+949,Bread,BrandC,Dairy,Artificial sweeteners,Microbiological Analysis,Minor,Low
+950,Wine,BrandC,Beverages,Melamine,Chemical Analysis,Moderate,Medium
+951,Honey,BrandC,Bakery,Artificial sweeteners,Spectroscopy,Minor,Medium
+952,Milk,BrandE,Condiments,Artificial sweeteners,Sensory Evaluation,Minor,Low
+953,Cheese,BrandD,Condiments,Water,Sensory Evaluation,Severe,High
+954,Cheese,BrandA,Meat,Chalk,Spectroscopy,Moderate,Medium
+955,Chicken,BrandD,Dairy,Water,Sensory Evaluation,Moderate,Medium
+956,Butter,BrandC,Meat,Water,Spectroscopy,Moderate,High
+957,Beef,BrandE,Bakery,Artificial sweeteners,Sensory Evaluation,Severe,High
+958,Honey,BrandE,Dairy,Chalk,Chemical Analysis,Minor,Medium
+959,Beef,BrandB,Meat,Melamine,Spectroscopy,Severe,Low
+960,Juice,BrandA,Condiments,Artificial sweeteners,Chemical Analysis,Severe,Medium
+961,Beef,BrandA,Dairy,Water,Microbiological Analysis,Moderate,High
+962,Bread,BrandA,Beverages,Water,Spectroscopy,Minor,Medium
+963,Wine,BrandE,Beverages,Chalk,Microbiological Analysis,Severe,High
+964,Chicken,BrandD,Dairy,Chalk,Chemical Analysis,Moderate,Medium
+965,Yogurt,BrandB,Condiments,Chalk,Spectroscopy,Severe,Low
+966,Milk,BrandB,Beverages,Artificial sweeteners,Sensory Evaluation,Minor,High
+967,Chicken,BrandB,Bakery,Melamine,Chemical Analysis,Minor,High
+968,Bread,BrandD,Dairy,Coloring agents,Microbiological Analysis,Severe,High
+969,Milk,BrandB,Meat,Chalk,Chemical Analysis,Minor,High
+970,Juice,BrandA,Bakery,Coloring agents,Microbiological Analysis,Moderate,Low
+971,Wine,BrandC,Dairy,Artificial sweeteners,Chemical Analysis,Moderate,Medium
+972,Beef,BrandD,Meat,Melamine,Microbiological Analysis,Severe,Medium
+973,Chicken,BrandD,Dairy,Coloring agents,Sensory Evaluation,Moderate,Medium
+974,Cheese,BrandE,Condiments,Chalk,Microbiological Analysis,Moderate,High
+975,Honey,BrandC,Dairy,Artificial sweeteners,Microbiological Analysis,Minor,Medium
+976,Cheese,BrandE,Dairy,Artificial sweeteners,Microbiological Analysis,Moderate,Low
+977,Butter,BrandB,Beverages,Chalk,Sensory Evaluation,Moderate,Medium
+978,Butter,BrandE,Beverages,Water,Chemical Analysis,Moderate,Low
+979,Wine,BrandA,Bakery,Melamine,Microbiological Analysis,Moderate,Low
+980,Bread,BrandB,Condiments,Coloring agents,Sensory Evaluation,Minor,Low
+981,Milk,BrandA,Meat,Chalk,Sensory Evaluation,Minor,Medium
+982,Milk,BrandB,Meat,Artificial sweeteners,Microbiological Analysis,Moderate,Low
+983,Cheese,BrandA,Condiments,Coloring agents,Microbiological Analysis,Minor,Low
+984,Bread,BrandE,Condiments,Artificial sweeteners,Microbiological Analysis,Severe,Medium
+985,Chicken,BrandA,Meat,Melamine,Chemical Analysis,Severe,Low
+986,Bread,BrandE,Meat,Coloring agents,Microbiological Analysis,Severe,High
+987,Juice,BrandC,Bakery,Coloring agents,Sensory Evaluation,Minor,Low
+988,Yogurt,BrandB,Dairy,Melamine,Chemical Analysis,Moderate,High
+989,Juice,BrandD,Dairy,Artificial sweeteners,Spectroscopy,Moderate,High
+990,Yogurt,BrandB,Bakery,Water,Chemical Analysis,Minor,High
+991,Honey,BrandE,Beverages,Coloring agents,Sensory Evaluation,Moderate,High
+992,Chicken,BrandE,Meat,Chalk,Chemical Analysis,Severe,Low
+993,Milk,BrandB,Dairy,Artificial sweeteners,Microbiological Analysis,Severe,Low
+994,Juice,BrandB,Beverages,Coloring agents,Microbiological Analysis,Severe,Medium
+995,Butter,BrandD,Beverages,Artificial sweeteners,Chemical Analysis,Minor,Medium
+996,Beef,BrandD,Beverages,Melamine,Microbiological Analysis,Minor,Medium
+997,Bread,BrandD,Dairy,Chalk,Microbiological Analysis,Moderate,High
+998,Juice,BrandE,Beverages,Chalk,Spectroscopy,Minor,High
+999,Chicken,BrandC,Meat,Artificial sweeteners,Spectroscopy,Minor,Low
