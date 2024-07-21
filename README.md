@@ -6,25 +6,36 @@ This project aims to predict the health risk due to food adulteration based on a
 Ensure you have the following installed:
 
 Python 3.6 or higher
+
 Git
 # Steps
 1. Clone the repository
 git clone https://github.com/Nehu2021/Food_Adulteration_Health_Risk_using_ML.git
-2. Navigate to the project directory
+
+3. Navigate to the project directory
 Change your current working directory to the project directory.
+
 cd Food_Adulteration
-3. Install dependencies
+
+5. Install dependencies
 Install the required packages using pip.
+
 pip install -r requirements.txt
+
 # Run the predictor
+
 This model is pre-trained so simply run the predictor.
+
    python app.py
+   
 After execution, open your web browser and go to [http://192.168.1.64:8501] to access the application.
 
 # If you want to train the model on your own:
+
 1. Install Jupyter Notebook: If you haven't already installed Jupyter Notebook, you can do so using pip:
 
 pip install notebook
+
 2. Open the Notebook: Once Jupyter Notebook is installed, navigate to the directory where lung_cancer_analysis.ipynb is located using your command line or terminal.
 
 3. Start Jupyter Notebook: Run the following command to start the Jupyter Notebook server:
